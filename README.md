@@ -1,4 +1,4 @@
-🧪 Kimia Farma Analytics SQL Project
+🧪 Kimia Farma Analytics
 
 This project was built during my project-based internship at Rakamin Academy, focusing on generating a business-ready analytical table using raw transactional data from Kimia Farma. I wrote a SQL query (and also the notebook version) that joins four different datasets: transactions, branch data, product details, and inventory into a single unified table.
 
